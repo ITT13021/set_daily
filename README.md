@@ -1,6 +1,4 @@
-# set_daily
-
-自动填写日报
+# 自动填写日报
 
 1. 对python pytesseract模块的初步了解，使用该模块解析简单的验证码
 2. 对request.session的初步了解，完成cookie的传递
